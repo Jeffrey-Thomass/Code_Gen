@@ -12,6 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "@google/genai": "^1.48.0",
-    "dotenv": "^17.4.0"
+    "adm-zip": "^0.5.17",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.0",
+    "express": "^5.2.1"
   }
 }
